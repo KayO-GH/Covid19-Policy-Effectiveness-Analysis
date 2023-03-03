@@ -9,7 +9,7 @@ Preprint available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=41
 ## Setup Instructions
 For a clean run of the code, run `pip install -r requirements.txt` from the root of the folder in a fresh python virtual environment. The latest code was run with Python 3.10
 
-The datasets used can be found below and were arranged in the same order seen below. (Links represent files, and non-links represent folders. Once downloaded, you may rename the files and refactor the `pd.read_csv` string arguments to your liking):  
+The datasets used can be found below (you'll have to click on the Download button on each linked page) and were arranged in the same order seen below. (Links represent files, and non-links represent folders. Once downloaded, you may rename the files and refactor the `pd.read_csv` string arguments to your liking):  
 * corruption
     * [corruption perception index](https://ourworldindata.org/grapher/ti-corruption-perception-index)
 * education
@@ -43,4 +43,11 @@ The datasets used can be found below and were arranged in the same order seen be
         * [workplace closure measures](https://ourworldindata.org/grapher/workplace-closures-covid)
     * [containment index](https://ourworldindata.org/grapher/covid-containment-and-health-index)
     * [stringency index](https://ourworldindata.org/covid-stringency-index)
+<br/>
+<br/>
+
+Your folder structure should look like this when you are done:  
+[](img/Folder%20Structure%20Screenshot.png)
+[](https://raw.githubusercontent.com/KayO-GH/Covid19-Policy-Effectiveness-Analysis/main/img/Folder%20Structure%20Screenshot.png?token=GHSAT0AAAAAAB7HEZCSRUQ65WXVC4I5657MZACBSLQ)
+
     
