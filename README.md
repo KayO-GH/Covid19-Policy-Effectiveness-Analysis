@@ -47,7 +47,6 @@ The datasets used can be found below (you'll have to click on the Download butto
 <br/>
 
 Your folder structure should look like this when you are done:  
-[](img/Folder%20Structure%20Screenshot.png)
-[](https://raw.githubusercontent.com/KayO-GH/Covid19-Policy-Effectiveness-Analysis/main/img/Folder%20Structure%20Screenshot.png?token=GHSAT0AAAAAAB7HEZCSRUQ65WXVC4I5657MZACBSLQ)
+![](https://raw.githubusercontent.com/KayO-GH/Covid19-Policy-Effectiveness-Analysis/main/img/Folder%20Structure%20Screenshot.png?token=GHSAT0AAAAAAB7HEZCSRUQ65WXVC4I5657MZACBSLQ)
 
     
