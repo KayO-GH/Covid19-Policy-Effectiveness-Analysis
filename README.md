@@ -3,7 +3,7 @@ A global analysis of the effectiveness of policy responses to COVID-19
 
 Code implementation for the analysis and experiments used in the paper "A Global Analysis of the Effectiveness of Policy Responses to COVID-19" by Kwadwo Agyapon-Ntra and Patrick McSharry (PhD)
 
-Preprint available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4193848).
+Paper available [here](https://www.nature.com/articles/s41598-023-31709-2).
 
 ---
 ## Setup Instructions
